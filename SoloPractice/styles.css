@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    margin: 25px;
+    color: #3C5B6F;
+}
+
+
+h3{
+    background-color: #3C5B6F;
+    color: aliceblue;
+    text-shadow: #DFD0B8;
+    padding: 5px;
+}
+
+.div-creado{
+    background-color: #DFD0B8;
+    margin: 60px;
+    border: solid;
+
+}
+p{
+    text-align: left;
+    margin-left: 30px;
+}
+li{
+    margin-left: 40px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+li:hover{
+ color: #615a4f;
+}
